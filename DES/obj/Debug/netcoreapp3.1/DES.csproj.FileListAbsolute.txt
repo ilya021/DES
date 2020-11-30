@@ -1,0 +1,16 @@
+C:\Users\ilya-\source\repos\DES\DES\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ilya-\source\repos\DES\DES\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ilya-\source\repos\DES\DES\obj\Debug\netcoreapp3.1\DES_MarkupCompile.cache
+C:\Users\ilya-\source\repos\DES\DES\obj\Debug\netcoreapp3.1\DES_MarkupCompile.lref
+C:\Users\ilya-\source\repos\DES\DES\bin\Debug\netcoreapp3.1\DES.exe
+C:\Users\ilya-\source\repos\DES\DES\bin\Debug\netcoreapp3.1\DES.deps.json
+C:\Users\ilya-\source\repos\DES\DES\bin\Debug\netcoreapp3.1\DES.runtimeconfig.json
+C:\Users\ilya-\source\repos\DES\DES\bin\Debug\netcoreapp3.1\DES.runtimeconfig.dev.json
+C:\Users\ilya-\source\repos\DES\DES\bin\Debug\netcoreapp3.1\DES.dll
+C:\Users\ilya-\source\repos\DES\DES\bin\Debug\netcoreapp3.1\DES.pdb
+C:\Users\ilya-\source\repos\DES\DES\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ilya-\source\repos\DES\DES\obj\Debug\netcoreapp3.1\DES.g.resources
+C:\Users\ilya-\source\repos\DES\DES\obj\Debug\netcoreapp3.1\DES.AssemblyInfoInputs.cache
+C:\Users\ilya-\source\repos\DES\DES\obj\Debug\netcoreapp3.1\DES.AssemblyInfo.cs
+C:\Users\ilya-\source\repos\DES\DES\obj\Debug\netcoreapp3.1\DES.dll
+C:\Users\ilya-\source\repos\DES\DES\obj\Debug\netcoreapp3.1\DES.pdb
